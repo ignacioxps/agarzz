@@ -1,5 +1,5 @@
 
-function split2() {
+function split22() {
     $("body").trigger($.Event("keydown", {
         keyCode: 32
     }));
@@ -11,7 +11,7 @@ function split2() {
 // Función Sopaceclick
 function Sopaceclick() {
 
-        split2();
+        split22();
 
 }
 
